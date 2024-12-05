@@ -2,7 +2,7 @@
 
 This repository contains a Power BI dashboard for Blinkit, a last-minute grocery delivery app in India. The dashboard provides insights into sales performance, customer ratings, and outlet-level trends.
 
-
+![Dashboard Preview]https://galgotiasuniversityeduin0-my.sharepoint.com/:u:/g/personal/rahul_22scse1040238_galgotiasuniversity_edu_in/EYK6OhktFC1FkY0HAB9VQAgBaDoByjE2HfPmsbZwPqSMmw?e=O2eDbg
 ## 📊 Key Insights
 - **Total Sales:** $1.20M
 - **Average Sales per Transaction:** $141
@@ -28,4 +28,4 @@ This repository contains a Power BI dashboard for Blinkit, a last-minute grocery
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Blinkit-Grocery-Dashboard.git
+   git clone (https://github.com/manindrak172/Blinkit_Dashboard-)
