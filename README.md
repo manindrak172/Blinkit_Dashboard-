@@ -29,3 +29,11 @@ This repository contains a Power BI dashboard for Blinkit, a last-minute grocery
 1. Clone the repository:
    ```bash
    git clone (https://github.com/manindrak172/Blinkit_Dashboard-)
+   ![image](https://github.com/user-attachments/assets/08df12ae-43af-4023-a8ce-4366fbdb4efb)
+   ![image](https://github.com/user-attachments/assets/9a724af4-0f7a-4ac2-8904-e45650757cd8)
+   ![image](https://github.com/user-attachments/assets/d538603d-0d9c-4560-ba92-648d640c66dd)
+   ![image](https://github.com/user-attachments/assets/c6ad071e-d688-4113-8de3-a9427d74b191)
+
+
+
+
